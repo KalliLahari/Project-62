@@ -1,0 +1,84 @@
+#myCarousel{
+    background-color:red;
+    color: white;
+    text-align: center;
+}
+
+#myCarousel img {
+   height: 450px;
+   width: 150%;
+}
+
+#Home{
+    background-color: red;
+    text-align: center;
+}
+
+.menu{
+    font-family: sans-serif;
+    z-index:10;
+    cursor:pointer;
+    position: fixed;
+    background-color:red;
+    color: white;
+    width: 100%;
+    top:0px;
+}
+
+.links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size:20px;
+}
+.links:hover{
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+carousel-inner p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.links:hover{
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#Gridview {
+   text-align: center;
+   background-color: red;
+   color: white;
+}
+
+#img2 {
+    width: 250px; 
+    height: 250px;
+}
+
+body{
+    text-align: center;
+    color: white
+}
+
+p{
+  background-color: white;
+    color: red;
+}
+
+h1{
+    background-color: red;
+    color: white;
+}
+
+h3{
+    background-color: red;
+    color: white;
+}
+
